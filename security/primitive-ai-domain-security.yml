@@ -1,0 +1,12 @@
+generated: '2026-10-24'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: prai.tech
+  https: false
+domains:
+- domain: prai.tech
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false

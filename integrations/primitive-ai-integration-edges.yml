@@ -1,0 +1,20 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/primitive-ai/integrations
+- https://zapier.com/apps/primitive/integrations
+- https://n8n.io/integrations/primitive-ai/
+- https://n8n.io/integrations/primitive/
+- https://composio.dev/toolkits/primitive-ai
+- https://monid.ai/tools/primitive-ai
+checked:
+- https://composio.dev/toolkits/primitive-ai
+- https://monid.ai/tools/primitive-ai
+- https://n8n.io/integrations/primitive-ai/
+- https://n8n.io/integrations/primitive/
+- https://zapier.com/apps/primitive-ai/integrations
+- https://zapier.com/apps/primitive/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
